@@ -1,0 +1,19 @@
+{
+  "name": "react2",
+  "version": "1.0.0",
+  "description": "React App Developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ewani1106/react2.git"
+  },
+  "author": "Ewani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ewani1106/react2/issues"
+  },
+  "homepage": "https://github.com/Ewani1106/react2#readme"
+}
